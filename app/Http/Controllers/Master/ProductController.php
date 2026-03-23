@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Master;
 
-use App\Domain\Master\Product\Services\ProductService;
+use App\Services\ProductService;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Master\ProductRequest;
 
